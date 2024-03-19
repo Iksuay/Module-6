@@ -1,8 +1,9 @@
+/*
 using System;
 
 namespace Module_6
 {
-    class Program
+    class Application_6_3_1
     {
         static void Main(string[] args)
         {
@@ -35,3 +36,4 @@ namespace Module_6
         public string Name;
     }
 }
+*/
